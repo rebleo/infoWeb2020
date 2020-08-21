@@ -1,6 +1,7 @@
-## Info + Web Programming
-#### August 26 - December 18, 2020
-#### CISC-2350-R01 || 30289|| Monday + Thursdays, 5:30 - 6:45 || Online || Fordham University
+### Info + Web Programming Fall 2020
+#### Fordham University
+#### CISC-2350-R01 || Online 
+#### Monday + Thursday, 5:30 - 6:45pm EST 
 
 	Professor: Rebecca Leopold
 	Email: RLeopold [at] fordham.edu
@@ -15,7 +16,8 @@ This 15-week course introduces students to the basics of design and programming 
 1. Become conversant in web authoring technologies including CSS, HTML, and JavaScript
 2. Create a unique media rich website considering key aspects of visual systems, interaction design
 and user experience
-3. Understand + implement an iterative process - including maintaining + adding to an existing site 4. Learn how to proactively learn, using the web to research open source tools + documentation
+3. Understand + implement an iterative process - including maintaining + adding to an existing site 
+4. Learn how to proactively learn, using the web to research open source tools + documentation
 5. Create an internal developer / creative community
 
 ---
