@@ -1,5 +1,6 @@
 #### Resources
 * [Sign up for Github](https://education.github.com/pack)
+* [CS Storm Server](https://www.fordham.edu/info/26537/access_from_internet/9669/connection_using_secure_shell)
 
 ###### Suggested Text Editors:
 * [Visual Code Studio](https://code.visualstudio.com/)
