@@ -14,5 +14,6 @@
 * [Codeburst](https://codeburst.io/25-html-css-tutorials-6a864f387185)
 
 
-###### Miscellaneous: 
+###### Windows Users: 
+[Linux Bash for windows 10](https://www.google.com/search?hl=en&q=windows%2010%20linux%20command%20prompt)
 [Getting Started w/ Wndws PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/getting-started/getting-started-with-windows-powershell?view=powershell-7)
