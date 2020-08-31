@@ -4,9 +4,9 @@
 * [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
 
 #### Server Resources
-* (Fordham CIS Storm Server)[https://www.fordham.edu/info/26527/creating_student_accounts]
-* (Reset your Storm password)[https://dsm.dsm.fordham.edu/cgi-bin/cryptpass.pl]
-* (GitHub Pages)[https://pages.github.com/]
+* [Fordham CIS Storm Server](https://www.fordham.edu/info/26527/creating_student_accounts)
+* [Reset your Storm password](https://dsm.dsm.fordham.edu/cgi-bin/cryptpass.pl)
+* [GitHub Pages](https://pages.github.com/)
 
 #### SFTP Software Services
 * [Cyber Duck](https://cyberduck.io/)
