@@ -1,10 +1,12 @@
+###### VSC Instllation Tutorial
+* [Dan Shiffman's Coding Train](https://www.youtube.com/watch?v=yJw0SyKO9IU)
+
 ###### Unix
 * [Unix Tutorials](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * [Unix for Windows](https://www.lemoda.net/windows/windows2unix/windows2unix.html)
 * [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
 
 #### Server Resources
-* [Fordham CIS Storm Server](https://www.fordham.edu/info/26527/creating_student_accounts)
 * [Reset your Storm password](https://dsm.dsm.fordham.edu/cgi-bin/cryptpass.pl)
 * [GitHub Pages](https://pages.github.com/)
 
@@ -52,6 +54,3 @@
 * [W3 Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [details](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
 * [mark](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/mark)
-###### Lynda Tutorials
-[Lynda HTML Essential Training](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html)
-[Lynda CSS Essential Training](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-1/569190-2.html):
