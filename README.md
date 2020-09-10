@@ -50,6 +50,7 @@ All materials for this class are open source + can be accessed via the web. Regu
 The class wiki - is where the rest of the syllabus including in-class and homework assignments will be found. To turn in your homework you should add a link to your work weekly using Markdown. You are required to post on the wiki. To contribute to the wiki you must set up a Github account.
 
 #### [Course Outline](schedule.md)
+#### [Syllabus pdf](week01/CISC_2350_R01_F2020_Syllabu.pdf)
 
 
 #### Suggested Texts:
