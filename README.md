@@ -56,6 +56,8 @@ The class wiki - is where the rest of the syllabus including in-class and homewo
 #### Suggested Texts:
 * [Web Design w/ HTML, CSS, JavaScript + JQuery Set](https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=sr_1_3?ie=UTF8&qid=1526310943&sr=8-3&keywords=html+and+css) - Jon Duckett, 2014
 * [Dive into HTML5](http://diveinto.html5doctor.com/) - Mark Pilgrim
+* [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijn Haverbeke
+* [Learning PHP, MySQL & JavaScript](http://lpmj.net/5thedition/) - Robin Nixon
 * [W3 Schools](https://www.w3schools.com/)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [Learn Enough](https://www.learnenough.com/) - Michael Hartl
