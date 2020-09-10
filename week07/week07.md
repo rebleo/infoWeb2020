@@ -1,3 +1,7 @@
+##### [p5.js RESOURCES:](https://p5js.org/)
+* [Dan Shiffman Youtube - intro to programming](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+* [p5.js reference](https://p5js.org/reference/)
+
 ##### NATIVE JS RESOURCES:
 * [JS Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
 * [Query Selector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
