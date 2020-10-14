@@ -1,0 +1,17 @@
+button {
+ width: 200px;
+ height: 200px;
+ border-radius: 100px;
+}
+
+div h3 {
+ text-align: center;
+}
+button:hover {
+ background-color: red;
+ /* color: white; */
+ font-size: 36px;
+ /* z-index: 3; */
+ 
+}
+
