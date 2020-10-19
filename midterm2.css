@@ -1,0 +1,21 @@
+html { 
+
+    background-color: #ffd95c;
+}
+
+.flex-container {
+  display: flex;
+    justify-content: center;
+
+}
+
+img {
+    
+    border: solid; 
+    border-color: black;
+}
+
+.flex-container  div {
+  margin: 10px;
+  font-size: 30px;
+}
