@@ -13,7 +13,7 @@
 * [getElementById](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
 * [addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 https://developer.wordnik.com/
-
+* [mouseover event w/ cool time out function](https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseover_event)
 ***
 
 * [JS Data Types + Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
