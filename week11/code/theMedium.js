@@ -21,8 +21,7 @@ function theClick(){
 
 document.addEventListener('keydown', myFunction)
 
-function myFunction(theEvent) {
-
+function myFunction() {
  console.log("yay!");
  theTxt.textContent = "you pressed any key!!"
 }
