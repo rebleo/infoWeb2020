@@ -2,12 +2,12 @@ console.log("ES");
 const theButton = $("#myButton").on("click", myFunction);
 const otherButton = $("#yrButton").on("click", yrFunction);
 //
-// let theP = " 🌲yr a hero!"
+let theP = "<p> 🌲 yr a hero!</p>"
 
 function myFunction() {
   console.log("click");
   // add the paragraph programtically
-
+  $("h3").append(theP);
  
 }
 $("#target").click(function() {
@@ -19,5 +19,5 @@ $("#target").click(function() {
 
 function yrFunction(){
  console.log("turn off");
- $('p').remove(":contains('hero')");
+ $('p').remove();
 }
